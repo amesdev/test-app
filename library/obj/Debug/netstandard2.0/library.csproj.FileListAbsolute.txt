@@ -1,0 +1,9 @@
+/Users/ames/golden/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/ames/golden/library/bin/Debug/netstandard2.0/library.dll
+/Users/ames/golden/library/bin/Debug/netstandard2.0/library.pdb
+/Users/ames/golden/library/obj/Debug/netstandard2.0/library.csprojAssemblyReference.cache
+/Users/ames/golden/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/ames/golden/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/ames/golden/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/ames/golden/library/obj/Debug/netstandard2.0/library.dll
+/Users/ames/golden/library/obj/Debug/netstandard2.0/library.pdb

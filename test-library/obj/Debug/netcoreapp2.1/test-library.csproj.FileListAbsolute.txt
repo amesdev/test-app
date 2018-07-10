@@ -1,0 +1,17 @@
+/Users/ames/golden/test-library/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ames/golden/test-library/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/ames/golden/test-library/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/ames/golden/test-library/bin/Debug/netcoreapp2.1/test-library.deps.json
+/Users/ames/golden/test-library/bin/Debug/netcoreapp2.1/test-library.runtimeconfig.json
+/Users/ames/golden/test-library/bin/Debug/netcoreapp2.1/test-library.runtimeconfig.dev.json
+/Users/ames/golden/test-library/bin/Debug/netcoreapp2.1/test-library.dll
+/Users/ames/golden/test-library/bin/Debug/netcoreapp2.1/test-library.pdb
+/Users/ames/golden/test-library/bin/Debug/netcoreapp2.1/library.dll
+/Users/ames/golden/test-library/bin/Debug/netcoreapp2.1/library.pdb
+/Users/ames/golden/test-library/obj/Debug/netcoreapp2.1/test-library.csprojAssemblyReference.cache
+/Users/ames/golden/test-library/obj/Debug/netcoreapp2.1/test-library.csproj.CoreCompileInputs.cache
+/Users/ames/golden/test-library/obj/Debug/netcoreapp2.1/test-library.AssemblyInfoInputs.cache
+/Users/ames/golden/test-library/obj/Debug/netcoreapp2.1/test-library.AssemblyInfo.cs
+/Users/ames/golden/test-library/obj/Debug/netcoreapp2.1/test-library.csproj.CopyComplete
+/Users/ames/golden/test-library/obj/Debug/netcoreapp2.1/test-library.dll
+/Users/ames/golden/test-library/obj/Debug/netcoreapp2.1/test-library.pdb
